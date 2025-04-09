@@ -1,0 +1,51 @@
+Strada Margaretei
+23
+Covrig Eduard
+1
+3
+3
+Covrig Eduard
+Marinica Ion
+Sanda Maria
+Strada Ciocarliei
+14
+Figaru Marius
+2
+5
+2
+Figaru Marius
+Figaru Andreea
+Strada Lalelelor
+19
+Popescu George
+1
+4
+4
+Popescu George
+Mihaila Anca
+Ion Georgescu
+Iulia Maria
+Strada Magnolia
+33
+Andrei Ion
+2
+6
+5
+Andrei Ion
+Elena Maria
+Gabriela Simona
+Ionut Valentin
+Mihai Stefan
+Strada Trandafirilor
+50
+Dumitru Nicolae
+3
+7
+6
+Dumitru Nicolae
+Ana Maria
+Ionel Mihaila
+Alexandru Vasile
+Larisa Andreea
+Cristina Elena
+Mihai Laurentiu
