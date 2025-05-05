@@ -1,0 +1,28 @@
+10
+Apple
+iPhone 16
+256
+12
+iOS
+4500
+5
+Apple
+iPhone 14 Pro
+128
+8
+iOS
+3900
+4
+Samsung
+S25
+256
+16
+Android
+4000
+15
+Apple
+iPhone 11
+128
+6
+iOS
+1900
