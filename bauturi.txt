@@ -1,0 +1,49 @@
+1
+Coca Cola
+5
+500
+10
+2025-12-01
+Coca-Cola Company
+2
+Fanta
+7
+1250
+11
+2025-11-15
+Coca-Cola Company
+3
+Apa Aqua Carpatica
+5.5
+6
+0
+2027-01-01
+Carpathian Springs
+4
+Coca Cola
+12
+2500
+10
+2025-12-01
+Coca-Cola Company
+6
+Sprite
+5
+500
+9
+2025-10-10
+Coca-Cola Company
+7
+Apa Dorna
+5
+500
+0
+2026-06-01
+Coca-Cola Company
+8
+Sprite
+4.00
+330
+9
+2025-09-20
+Coca-Cola Company
